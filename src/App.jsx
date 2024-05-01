@@ -1,5 +1,4 @@
-import { Navbar } from './components/index';
-import { Carousel } from './components/Carousel'
+import { Navbar, Carousel, Contact } from './components/index';
 import './App.css'
 
 function App() {
@@ -7,6 +6,7 @@ function App() {
     <>
       <Navbar />
       <Carousel />
+      <Contact />
     </>
   )
 }

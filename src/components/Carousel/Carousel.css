@@ -1,6 +1,5 @@
 .container{
   background-color: gray;
-  width: 100vw;
   height: 500px;
 }
 
@@ -24,3 +23,4 @@ img {
 .right {
   right: 0;
 }
+
