@@ -1,12 +1,10 @@
-import { Navbar, Carousel, Contact } from './components/index';
 import './App.css'
+import { MainRoutes } from './routes/MainRoutes';
 
 function App() {
   return (
     <>
-      <Navbar />
-      <Carousel />
-      <Contact />
+      <MainRoutes />
     </>
   )
 }
