@@ -1,0 +1,15 @@
+.product-icons{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.p-icon-out{
+    padding: 1rem;
+    border: 6px solid grey;;
+    border-radius: 50%;
+    transition: all 0.2s ease;
+}
+
+.p-icon-out:hover{
+    background-color: grey;
+}

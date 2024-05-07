@@ -8,6 +8,7 @@ export const MainRoutes = () => {
                 <Route exact path="/" element={<Home />}/>
                 <Route exact path="/home" element={<Home />}/>
                 <Route exact path="/products" element={<Products />}/>
+                <Route exact path="/products/:animal" element={<Products />}/>
             </Routes>
         </BrowserRouter>
     )

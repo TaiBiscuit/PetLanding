@@ -7,7 +7,7 @@ export const Navbar = () => {
         <>
         <nav>
             <div className="nav-left">
-                <p>AAA</p>
+                <a href="/"><p>AAA</p></a>
             </div>
             <div className="nav-right">
                 <ol>
